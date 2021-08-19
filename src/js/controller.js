@@ -144,7 +144,6 @@ const init = function () {
   bookmarkView.bookmarksEventHandler(controlBookmarksAfterReload);
   resultsView.hideResultsReload();
   addRecipeView.addHandlerUpload(controlAddRecipe);
-  console.log('Hello');
 };
 
 init();
