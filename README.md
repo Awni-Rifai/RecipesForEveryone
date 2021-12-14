@@ -11,7 +11,7 @@ HTML - SCSS - JS -Parcel
 * Remove bookmarks or delete user recipes.
 * LocalStorage keeps the data when users exit the app.
 
-### Project Architecture
+## Project Architecture
 The project uses MVC design pattern for the javascript and for the styling SCSS files are divided for major components.
 
 ## Thank you 
